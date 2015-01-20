@@ -6,5 +6,13 @@
 	$j = 4;
 
 	// my changes here
+	class update {
+
+		private $var;
+
+
+	}
+
+
 
 ?>
